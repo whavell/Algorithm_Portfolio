@@ -7,5 +7,5 @@ Algorithm
 </h5>
 
 <p align=center>
-by. antony-08(최나단)
+by. antony-08(Whavell)
 </p>
