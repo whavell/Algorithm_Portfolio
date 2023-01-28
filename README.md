@@ -1,6 +1,6 @@
 <h1 align=center>
 Algorithm
-<h1>
+</h1>
 
 <h2 align=center>
 알고리즘 해석 및 설명
