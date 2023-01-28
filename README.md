@@ -2,9 +2,9 @@
 Algorithm
 </h1>
 
-<h2 align=center>
+<h3 align=center>
 알고리즘 해석 및 설명
-</h2>
+</h3>
 
 <h6 align=center>
     📜컴퓨터 알고리즘을 공부한 내용들을 분석하고 기록하면서
