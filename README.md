@@ -8,7 +8,7 @@ Algorithm and Data type
 
 <h6 align=center>
             📜컴퓨터 알고리즘과 데이터 타입을 공부한 내용들을 분석하고 기록하면서
-    그 알고리즘과 관련된 programmers의 문제들을 풀고 소스코드들의 모음📜
+            <br>그 알고리즘과 관련된 programmers의 문제들을 풀고 소스코드들의 모음📜
 </h6>
 
 <p align=center><i>
