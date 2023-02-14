@@ -15,7 +15,8 @@ Algorithm and Data type
 by. antony-08
 </i></p>
 
-
+<div align=center>
 <a href="https://mail.google.com/">📧choi.nathan08@gmail.com</a>
 <a href="https://github.com/antony-08">🖥️Github</a>
 <a href="https://outlook.live.com/mail/">✉️nathanchoi00@outlook.com</a>
+</div>
