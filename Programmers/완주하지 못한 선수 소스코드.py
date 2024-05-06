@@ -1,15 +1,15 @@
-def solution(participant, completion): # (1) 문제를 해결할 함수
+def solution(participant, completion): # 문제를 해결할 함수
  runners = {}
  answer = 0
 
-for i in participant: # (2) 딕셔너리를 채우는 for문
+for i in participant: # 딕셔너리를 채우는 for문
     if i not in runners:
         runners[i] = 1
 
     else:
         runners[i] += 1
 
-for l in completion: # (3) com을 돌면서 딕셔너리값을 갱신하는 for문
+for l in completion: # com을 돌면서 딕셔너리값을 갱신하는 for문
     if l in runners:
         runners[l] = runners[l]-1
 
