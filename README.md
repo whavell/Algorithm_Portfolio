@@ -12,7 +12,7 @@ Algorithm and Data type
 </h6>
 
 <p align=center><i>
-by. antony-08
+by. NATHAN
 </i></p>
 
 <div align=center>
